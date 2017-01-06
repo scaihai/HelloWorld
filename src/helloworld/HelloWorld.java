@@ -15,7 +15,11 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("aaaaaa");
+        System.out.print("Please enter control number:");
+        
+        //Receive input and display
+        
+        System.out.println("Control number accepted");
     }
     
 }
